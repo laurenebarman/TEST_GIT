@@ -10,6 +10,10 @@ public class Test {
 			public Test (String parametre) {
 				this.gitFromScrach= parametre;
 				
+				
+				
+				String salut;
+				
 			}
 			
 		}
