@@ -19,7 +19,11 @@ public class Test {
 
 }
 
+abstract class Animal {
 
+	
+	
+}
 
 
 
