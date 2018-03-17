@@ -2,9 +2,7 @@ package TEST;
 
 public class Test {
 
-
-
-		
+	
 		private String gitFromScrach;
 			
 			public Test (String parametre) {
@@ -12,7 +10,10 @@ public class Test {
 				
 				
 				
-				String salut;
+				String hello;
+				
+				
+				
 				
 			}
 			
